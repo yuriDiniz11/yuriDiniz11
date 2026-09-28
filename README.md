@@ -1,7 +1,7 @@
 # 👨🏼‍💻 Yuri Diniz!
 ---
 **`Desenvolvedor junior`**
-- Tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faço curso técnico em Desenvolvimento de Sistemas pelo SENAC-RS, e também fiz um técnico em TI em 2015 não finalizado! Embora não o tenha concluído e passado anos longe de TI e programação, voltei para a área, pois precisei destravar um computador emprestado, que por sinal usava o sistema Linux Mint, sem saber a senha. Reconheci "tarde" que era isso que eu deveria ter continuado desde o início.
+- Tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faço curso técnico em Desenvolvimento de Sistemas pelo SENAC-RS, e também fiz 1 ano e 6 meses de técnico em TI em 2015 mas não finalizei! Embora não o tenha concluído e passado anos longe de TI e programação, voltei para a área, pois precisei destravar um computador emprestado, que por sinal usava o sistema Linux Mint, sem saber a senha. Reconheci "tarde" que era isso que eu deveria ter continuado desde o início.
 
 **`Tenho experiência em:`**
 - Linux Mint (computador principal);

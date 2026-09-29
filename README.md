@@ -72,12 +72,3 @@ Tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faço curso técnic
 **`Sistemas Operacionais:`** Linux (experiência com Kali, Pop, Mint), Windows
 
 **`Ferramentas:`** Git, GitHub, Coddy e VS Code.
-
----
-
-
-# 📊 Estatisticas
-
-![Yuri Diniz's GitHub stats](https://github-readme-stats-seven-sable.vercel.app/api?username=yuriDiniz11&show_icons=true)
-
----

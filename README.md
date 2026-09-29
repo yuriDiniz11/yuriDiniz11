@@ -60,6 +60,7 @@ Tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faço curso técnic
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg"          
 /><br/>
+
 <br/>
 
 **`Experiência e Estudo Ativo:`** C, Python.

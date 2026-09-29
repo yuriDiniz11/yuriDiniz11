@@ -11,7 +11,7 @@ Tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faço curso técnic
 - Windows 11 (em aula).
 
 **`Línguas`**
-- Inglês (avançado).
+- Inglês (intermediário).
 
 ---
 

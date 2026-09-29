@@ -1,9 +1,9 @@
 # 👨🏼‍💻 Yuri Diniz!
 ---
 **`Desenvolvedor junior`**
-- Tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faço curso técnico em Desenvolvimento de Sistemas pelo SENAC-RS, e também fiz técnico em TI em 2015 mas não finalizei! Embora não o tenha concluído e passado anos longe de TI e programação, voltei para a área, pois precisei destravar um computador emprestado, que por sinal, usava o sistema Linux Mint, sem saber a senha. Reconheci "tarde" que era isso que eu deveria ter continuado desde o início.
+Tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faço curso técnico em Desenvolvimento de Sistemas pelo SENAC-RS, e também fiz um técnico em TI em 2015 não finalizado! Embora não o tenha concluído e passado anos longe de TI e programação, voltei para a área, pois precisei destravar um computador emprestado, que por sinal usava o sistema Linux Mint, sem saber a senha. Reconheci "tarde" que era isso que eu deveria ter continuado desde o início.
 
-**`Sistemas utilizados:`**
+**`Tenho experiência em:`**
 - Linux Mint (computador principal);
 - Kali Linux (estudos de segurança);
 - Pop! OS (teste);
@@ -62,7 +62,6 @@
 /><br/>
 <br/>
 
-
 **`Experiência e Estudo Ativo:`** C, Python.
 
 **`Estudos antigos TI 2015:`** Java, HTML, CSS, SQL.
@@ -78,14 +77,6 @@
 
 # 📊 Estatisticas
 
-![Yuri Diniz's GitHub stats](https://github-readme-vercel.app/api?username=yuriDiniz11&show_icons=true)
-
----
-
-### 
-
-
-
-
+![Yuri Diniz's GitHub stats](https://github-readme-stats-seven-sable.vercel.app/api?username=yuriDiniz11&show_icons=true)
 
 ---

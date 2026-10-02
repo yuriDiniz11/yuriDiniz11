@@ -21,7 +21,7 @@ Tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faço curso técnic
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="55px" 
+    width="1px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
 /><img 

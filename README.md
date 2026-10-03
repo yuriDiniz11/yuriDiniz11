@@ -17,36 +17,11 @@ Me chamo Yuri, tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faç
 
 ### 💾 Tecnologias e linguagens!
 
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=40670&format=png&collor=000000" 
-/><img 
-    align="left" 
-    alt="VScode" 
-    title="VScode"
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
-/><img 
-    align="left" 
-    alt="Kali" 
-    title="Kali"
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original-wordmark.svg" 
-/><img 
-    align="left" 
-    alt="Mint" 
-    title="Mint"
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg"          
-/><br/>
-<br/>
+<p align="center">
+  <a href="https://github.com/notyel">
+    <img src="https://skillicons.dev/icons?i=vscode,windows,linux,mint,kali,wordpress&perline=14&theme=light" />
+  </a>
+</p>
 
 **`Experiência e Estudo Ativo:`** C.
 
@@ -63,13 +38,7 @@ Me chamo Yuri, tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faç
 
 # 📊 Estatisticas
 
-| ![Yuri Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuriDiniz11&theme=highcontrast) 
+| ![Yuri Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuriDiniz11&theme=highcontrast) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuriDiniz11&theme=highcontrast) |
 | :-: | :-: |
 
 ---
-
-
-# 📊 Estatisticas
-
-| ![Yuri Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuriDiniz11&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuriDiniz11&theme=dark) |
-| :-: | :-: |

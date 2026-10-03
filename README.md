@@ -1,4 +1,4 @@
-![Chewie](Chewie.png)
+<img src="Chewie.png" height="640">   
 
 **`Desenvolvedor junior`**
 Me chamo Yuri, tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faço curso técnico em Desenvolvimento de Sistemas pelo SENAC-RS onde estou desenvolvendo minha lógica de programação em linguagem C, também fiz um técnico em TI em 2015 não finalizado! Embora não o tenha concluído e passado anos longe de TI e programação, voltei para a área, pois precisei destravar um computador emprestado, que por sinal usava o sistema Linux Mint, sem saber a senha. Reconheci "tarde" que era isso que eu deveria ter continuado desde o início!

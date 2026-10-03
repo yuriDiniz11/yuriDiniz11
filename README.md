@@ -1,4 +1,9 @@
-![Chewie](Chewie.png) 
+</div>
+</div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&color=00FFFF&width=600&height=60&lines=Bem+vinda(o)+ao+meu+Perfil!+%F0%9F%98%89;)](https://git.io/typing-svg)
+</div>
+
 
 **`Desenvolvedor junior`**
 Me chamo Yuri, tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faço curso técnico em Desenvolvimento de Sistemas pelo SENAC-RS onde estou desenvolvendo minha lógica de programação em linguagem C, também fiz um técnico em TI em 2015 não finalizado! Embora não o tenha concluído e passado anos longe de TI e programação, voltei para a área, pois precisei destravar um computador emprestado, que por sinal usava o sistema Linux Mint, sem saber a senha. Reconheci "tarde" que era isso que eu deveria ter continuado desde o início!

@@ -56,14 +56,14 @@ Me chamo Yuri, tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faç
 
 **`Sistemas Operacionais:`** Linux (experiência com Kali, Pop, Mint), Windows
 
-**`Ferramentas:`** Git, GitHub, Coddy e VS Code.
+**`Ferramentas:`** Git, GitHub e VS Code.
 
 ---
 
 
 # 📊 Estatisticas
 
-| ![Yuri Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuriDiniz11&theme=highcontrast) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuriDiniz11&theme=highcontrast) |
+| ![Yuri Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuriDiniz11&theme=highcontrast) 
 | :-: | :-: |
 
 ---

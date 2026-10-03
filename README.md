@@ -40,10 +40,12 @@ Embora não o tenha concluído e tenha passado anos longe de TI e programação,
 
 ### 📊 Telemetria do Sistema
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriDiniz11&theme=dark&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=00FF66&currStreakLabel=00FF66&hide_border=false" height="170" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriDiniz11&theme=dark&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=00FF66&currStreakLabel=00FF66&hide_border=false" height="170" />
+</p>
 
-<br><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/yuriDiniz11/yuriDiniz11/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuriDiniz11/yuriDiniz11/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>

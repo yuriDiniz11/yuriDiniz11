@@ -78,3 +78,4 @@ Tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faço curso técnic
 # 📊 Estatisticas
 
 | ![Yuri Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuriDiniz11&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuriDiniz11&theme=dark) |
+| :-: | :-: |

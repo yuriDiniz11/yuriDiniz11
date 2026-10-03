@@ -24,9 +24,9 @@ Embora não o tenha concluído e tenha passado anos longe de TI e programação,
 <details>
 <summary><b>🟢 [ CLIQUE PARA EXPANDIR ] <code>$ ./view_system_logs.sh</code></b></summary>
 <br>
-<pre align="left"><code>[SYSTEM DIAGNOSTICS]
+<pre align="center"><code>[SYSTEM DIAGNOSTICS]
 🟢 OS           : Linux Mint | Kali Linux | Windows 11
-⚡ SHELL        : Linux Terminal (Bash / Zsh)
+⚡  SHELL        : Linux Terminal
 💻 LANGUAGES    : C
 🛠️ TOOLS        : VS Code, Git/GitHub
 🎯 TARGET       : Systems Development & Automation

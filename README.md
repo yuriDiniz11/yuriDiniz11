@@ -19,12 +19,18 @@ Embora não o tenha concluído e tenha passado anos longe de TI e programação,
 
 ---
 
+### 🛠️ Tecnologias & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=c,kali,mint,linux,vscode,windows&theme=dark" alt="Tech Stack" />
+
+---
+
 ### 🖥️ Especificações do Sistema
 
 <details>
 <summary><b>🟢 [ CLIQUE PARA EXPANDIR ] <code>$ ./view_system_logs.sh</code></b></summary>
 <br>
-<pre align="center"><code>[SYSTEM DIAGNOSTICS]
+<pre align="left"><code>[SYSTEM DIAGNOSTICS]
 🟢 OS           : Linux Mint | Kali Linux | Windows 11
 ⚡ SHELL        : Linux Terminal (Bash / Zsh)
 💻 LANGUAGES    : C

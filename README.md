@@ -19,12 +19,6 @@ Embora não o tenha concluído e tenha passado anos longe de TI e programação,
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=c,kali,mint,linux,vscode,windows&theme=dark" alt="Tech Stack" />
-
----
-
 ### 🖥️ Especificações do Sistema
 
 <details>

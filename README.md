@@ -19,7 +19,7 @@ Me chamo Yuri, tenho 25 anos e sou natural do Rio grande do Sul. Atualmente faç
 
 <p align="center">
   <a href="https://github.com/notyel">
-    <img src="https://skillicons.dev/icons?i=linux,mint,kali,vscode,c&perline=14&theme=highcontrast" />
+    <img src="https://skillicons.dev/icons?i=linux,mint,kali,vscode,c&perline=14&theme=dark" />
   </a>
 </p>
 

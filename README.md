@@ -14,16 +14,16 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
  **`Foco atual`** 
 | *Trilha* |
 |---|
-| Linguagem C: Laços, vetores, matrizes e funções |
-| Controle de versão: Git e GitHub no dia a dia, com commits diários |
-| Próximos estudos: Python e banco de dados |
+| **Linguagem C:** Laços, vetores, matrizes e funções |
+| **Controle de versão:** Git e GitHub no dia a dia, com commits diários |
+| **Próximos estudos:** Python e banco de dados |
 
 **`Projetos`**
 
 | *Projeto* | *Descrição* |
 |---|---|
-| [logica8792](https://github.com/yuriDiniz11/logica8792) | Exercícios de aula em linguagem C |
-| [calculator](https://github.com/yuriDiniz11/calculator) | Calculadora em C com 4 versões |
+| **[logica8792]**(https://github.com/yuriDiniz11/logica8792) | Exercícios de aula em linguagem C |
+| **[calculator]**(https://github.com/yuriDiniz11/calculator) | Calculadora em C com 4 versões |
 
 
 
@@ -31,8 +31,8 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 
 | *Ferramenta* | *Link* |
 |---|---|
-| LinkedIn | [linkedin.com/in/yuridiniz11](https://www.linkedin.com/in/yuridiniz11) |
-| E-mail | [dinizyuri88@gmail.com](mailto:dinizyuri88@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/yuridiniz11](https://www.linkedin.com/in/yuridiniz11) |
+| **E-mail** | [dinizyuri88@gmail.com](mailto:dinizyuri88@gmail.com) |
    
 ---
 

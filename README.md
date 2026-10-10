@@ -20,7 +20,11 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 
 **`Projetos`**
 
-[logica8792](https://github.com/yuriDiniz11/logica8792) · [calculator](https://github.com/yuriDiniz11/calculator)
+[**logica8792**](https://github.com/yuriDiniz11/logica8792)  
+Exercícios de aula em linguagem C
+
+[**calculator**](https://github.com/yuriDiniz11/calculator)  
+Calculadora em C com 4 versões
 
 
 **`Contato`**

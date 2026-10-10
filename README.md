@@ -1,3 +1,4 @@
+<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=700&size=22&color=00FF66&background=000000&width=650&height=60&pause=1000&center=true&vCenter=true&lines=root%40yuriDiniz11%3A~%23+Bem-vindo+ao+sistema!;root%40yuriDiniz11%3A~%23+Iniciando+conexao...+%E2%9A%A1;root%40yuriDiniz11%3A~%23+May+the+force+be+with+your+code..." alt="Typing SVG" />
@@ -11,19 +12,19 @@ Me chamo Yuri, sou natural do Rio Grande do Sul e atualmente faço curso técnic
 Entrei de vez em TI quando precisei destravar um computador emprestado sem lembrar a senha. Dali vieram o interesse em segurança da informação e por programação!
 
 ## Foco atual
-   Laços, vetores, matrizes e funções em C;
-   Git e GitHub no dia a dia, com commits diários;
-   Próximos estudos: [Python e banco de dados]
+   - Laços, vetores, matrizes e funções em C;
+   - Git e GitHub no dia a dia, com commits diários;
+   - Próximos estudos: [Python e banco de dados]
 
 ## Projetos
-   [logica8792](https://github.com/yuriDiniz11/logica8792)
+   - [logica8792](https://github.com/yuriDiniz11/logica8792)
     Exercícios de aula em linguagem C.
-   [calculator](https://github.com//yuriDiniz11/calculator)
+   - [calculator](https://github.com//yuriDiniz11/calculator)
     Calculadora em C com 4 versões.
 
 ## Contato
-   LinkedIn: https://www.linkedin.com/in/yuridiniz11
-   E-mail: dinizyuri88@gmail.com
+   - LinkedIn: https://www.linkedin.com/in/yuridiniz11
+   - E-mail: dinizyuri88@gmail.com
    
 ---
 

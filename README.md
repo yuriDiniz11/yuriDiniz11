@@ -13,9 +13,7 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 
  **`Foco atual`** 
 | Laços, vetores, matrizes e funções em C |
-|---|
 | Git e GitHub no dia a dia, com commits diários |
-|---|
 | Próximos estudos: Python e banco de dados |
 
 **`Projetos`**

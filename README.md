@@ -8,8 +8,23 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Yuri, tenho 25 anos e sou natural do Rio Grande do Sul. Atualmente faço curso técnico em Desenvolvimento de Sistemas pelo SENAC-RS onde estou desenvolvendo minha lógica de programação em linguagem C (também fiz um técnico em TI em 2015 não finalizado).<br><br>
-Embora não o tenha concluído e tenha passado anos longe de TI e programação, voltei para a área pois precisei destravar um computador emprestado que usava o sistema Linux Mint sem saber a senha. Reconheci "tarde" que era isso que eu deveria ter continuado desde o início!
+Me chamo Yuri, sou natural do Rio Grande do Sul e atualmente faço curso técnico em Desenvolvimento de Sistemas pelo SENAC-RS. Onde estou desenvolvendo minha lógica de programação em linguagem C, utilizo Linux (Mint e Kali) no meu dia a dia. Busco estágio ou vaga júnior em TI.<br><br>
+Entrei de vez em TI quando precisei destravar um computador emprestado sem lembrar a senha. Dali vieram o interesse em segurança da informação e por programação!
+
+---
+
+## Foco atual
+  - Laços, vetores, matrizes e funções em C;
+  - Git e GitHub no dia a dia, com commits diários;
+  - Próximos estudos: [Python e banco de dados]
+
+---
+
+## Projetos
+  - [logica8792](https://github.com/yuriDiniz11/logica8792)
+    Exercícios de aula em linguagem C.
+  - [calculator](https://github.com//yuriDiniz11/calculator)
+    Calculadora em C com 4 versões.
 
 ---
 
@@ -19,24 +34,9 @@ Embora não o tenha concluído e tenha passado anos longe de TI e programação,
 
 ---
 
-### 🖥️ Especificações do Sistema
-
-<details>
-<summary><b>🟢 [ CLIQUE PARA EXPANDIR ] <code>$ ./view_system_logs.sh</code></b></summary>
-<br>
-<pre align="left"><code>[SYSTEM DIAGNOSTICS]
-🟢 OS        : Linux | Windows 11
-⚡ SHELL     : Linux Terminal
-💻 LANGUAGES : C
-🛠️ TOOLS     : VS Code, Git/GitHub
-🎯 TARGET    : Systems Development & Automation
-📡 STATUS    : [ONLINE] - Compiling... 🚀</code></pre>
-
-</details>
-
-</div>
-
----
+## Contato
+  - LinkedIn: https://www.linkedin.com/in/yuridiniz11
+  - E-mail: dinizyuri88@gmail.com
 
 ### 📊 Telemetria do Sistema
 

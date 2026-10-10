@@ -29,10 +29,8 @@ Calculadora em C com 4 versões
 
 **`Contato`**
 
-| Ferramenta | Link | 
-|---|---|
-| LinkedIn | https://www.linkedin.com/in/yuridiniz11 |
-| E-mail | dinizyuri88@gmail.com |
+[**LinkedIn**](https://www.linkedin.com/in/yuridiniz11)  
+[**E-mail**](mailto:dinizyuri88@gmail.com)
    
 ---
 

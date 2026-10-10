@@ -23,9 +23,8 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
     Calculadora em C com 4 versões.
 
 **`Contato`**
-   - LinkedIn: https://www.linkedin.com/in/yuridiniz11
-   - E-mail: dinizyuri88@gmail.com
-   - [...]
+   | - LinkedIn: https://www.linkedin.com/in/yuridiniz11 |
+   | - E-mail: dinizyuri88@gmail.com |
    
 ---
 

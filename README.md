@@ -14,23 +14,25 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
  **`Foco atual`** 
 | Trilha |
 |---|
-| Laços, vetores, matrizes e funções em C |
-| Git e GitHub no dia a dia, com commits diários |
+| Linguagem C: Laços, vetores, matrizes e funções |
+| Controle de versão: Git e GitHub no dia a dia, com commits diários |
 | Próximos estudos: Python e banco de dados |
 
 **`Projetos`**
 
-[**logica8792**](https://github.com/yuriDiniz11/logica8792)  
-Exercícios de aula em linguagem C
+| Projeto | Descrição |
+|---|---|
+| [logica8792](https://github.com/yuriDiniz11/logica8792) | Exercícios de aula em linguagem C |
+| [calculator](https://github.com/yuriDiniz11/calculator) | Calculadora em C com 4 versões |
 
-[**calculator**](https://github.com/yuriDiniz11/calculator)  
-Calculadora em C com 4 versões
 
 
 **`Contato`**
 
-[**LinkedIn**](https://www.linkedin.com/in/yuridiniz11)  
-[**E-mail**](mailto:dinizyuri88@gmail.com)
+| Ferramenta | Link |
+|---|---|
+| LinkedIn | [linkedin.com/in/yuridiniz11](https://www.linkedin.com/in/yuridiniz11) |
+| E-mail | [dinizyuri88@gmail.com](mailto:dinizyuri88@gmail.com) |
    
 ---
 

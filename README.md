@@ -11,18 +11,18 @@
 Me chamo Yuri, sou natural do Rio Grande do Sul e atualmente faço curso técnico em Desenvolvimento de Sistemas pelo SENAC-RS. Onde estou desenvolvendo minha lógica de programação em linguagem C, utilizo Linux (Mint e Kali) no meu dia a dia. Busco estágio ou vaga júnior em TI.<br><br>
 Entrei de vez em TI quando precisei destravar um computador emprestado sem lembrar a senha. Dali vieram o interesse em segurança da informação e por programação!
 
-## Foco atual
+**`Foco atual`**
    - Laços, vetores, matrizes e funções em C;
    - Git e GitHub no dia a dia, com commits diários;
    - Próximos estudos: [Python e banco de dados]
 
-## Projetos
+**`Projetos`**
    - [logica8792](https://github.com/yuriDiniz11/logica8792)
     Exercícios de aula em linguagem C.
    - [calculator](https://github.com//yuriDiniz11/calculator)
     Calculadora em C com 4 versões.
 
-## Contato
+**`Contato`**
    - LinkedIn: https://www.linkedin.com/in/yuridiniz11
    - E-mail: dinizyuri88@gmail.com
    
@@ -32,6 +32,7 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 
 <img src="https://skillicons.dev/icons?i=c,kali,mint,linux,vscode,windows&theme=dark" alt="Tech Stack" />
 
+---
 
 ### 📊 Telemetria do Sistema
 

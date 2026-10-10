@@ -16,7 +16,6 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 | Laços, vetores, matrizes e funções em C |
 | Git e GitHub no dia a dia, com commits diários |
 | Próximos estudos: | Python e banco de dados |
-|---|
 
 **`Projetos`**
    - [logica8792](https://github.com/yuriDiniz11/logica8792)

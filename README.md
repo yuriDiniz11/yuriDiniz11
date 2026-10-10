@@ -14,16 +14,16 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 ---
 
 ## Foco atual
-  - Laços, vetores, matrizes e funções em C;
-  - Git e GitHub no dia a dia, com commits diários;
-  - Próximos estudos: [Python e banco de dados]
+   Laços, vetores, matrizes e funções em C;
+   Git e GitHub no dia a dia, com commits diários;
+   Próximos estudos: [Python e banco de dados]
 
 ---
 
 ## Projetos
-  - [logica8792](https://github.com/yuriDiniz11/logica8792)
+   [logica8792](https://github.com/yuriDiniz11/logica8792)
     Exercícios de aula em linguagem C.
-  - [calculator](https://github.com//yuriDiniz11/calculator)
+   [calculator](https://github.com//yuriDiniz11/calculator)
     Calculadora em C com 4 versões.
 
 ---
@@ -35,8 +35,8 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 ---
 
 ## Contato
-  - LinkedIn: https://www.linkedin.com/in/yuridiniz11
-  - E-mail: dinizyuri88@gmail.com
+   LinkedIn: https://www.linkedin.com/in/yuridiniz11
+   E-mail: dinizyuri88@gmail.com
 
 ### 📊 Telemetria do Sistema
 

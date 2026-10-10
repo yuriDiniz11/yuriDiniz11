@@ -12,9 +12,10 @@ Me chamo Yuri, sou natural do Rio Grande do Sul e atualmente faço curso técnic
 Entrei de vez em TI quando precisei destravar um computador emprestado sem lembrar a senha. Dali vieram o interesse em segurança da informação e por programação!
 
  **`Foco atual`** 
+|---|
 | Laços, vetores, matrizes e funções em C |
 | Git e GitHub no dia a dia, com commits diários |
-| Próximos estudos: Python e banco de dados |
+| Próximos estudos: | Python e banco de dados |
 |---|
 
 **`Projetos`**

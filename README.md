@@ -22,8 +22,8 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 
 | *Projeto* | *Descrição* |
 |---|---|
-| **[logica8792]**(https://github.com/yuriDiniz11/logica8792) | Exercícios de aula em linguagem C |
-| **[calculator]**(https://github.com/yuriDiniz11/calculator) | Calculadora em C com 4 versões |
+| [logica8792](https://github.com/yuriDiniz11/logica8792) | Exercícios de aula em linguagem C |
+| [calculator](https://github.com/yuriDiniz11/calculator) | Calculadora em C com 4 versões |
 
 
 

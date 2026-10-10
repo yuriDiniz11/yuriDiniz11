@@ -12,6 +12,7 @@ Me chamo Yuri, sou natural do Rio Grande do Sul e atualmente faço curso técnic
 Entrei de vez em TI quando precisei destravar um computador emprestado sem lembrar a senha. Dali vieram o interesse em segurança da informação e por programação!
 
  **`Foco atual`** 
+| Trilha |
 |---|
 | Laços, vetores, matrizes e funções em C |
 | Git e GitHub no dia a dia, com commits diários |
@@ -25,9 +26,11 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 | [calculator](https://github.com/yuriDiniz11/calculator) | Calculadora em C com 4 versões. |
 
 **`Contato`**
-    - LinkedIn: https://www.linkedin.com/in/yuridiniz11 
-    - E-mail: dinizyuri88@gmail.com 
-   | :--- | :---: |
+
+| Ferramenta | Link | 
+|---|---|
+| LinkedIn | https://www.linkedin.com/in/yuridiniz11 |
+| E-mail | dinizyuri88@gmail.com |
    
 ---
 

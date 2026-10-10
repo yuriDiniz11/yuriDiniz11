@@ -18,9 +18,11 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 | Próximos estudos: Python e banco de dados |
 
 **`Projetos`**
-|---||---|
+
+| Projeto | Descrição |
+|---|---|
 | [logica8792](https://github.com/yuriDiniz11/logica8792) | Exercícios de aula em linguagem C. |
-| [calculator](https://github.com//yuriDiniz11/calculator) | Calculadora em C com 4 versões. |
+| [calculator](https://github.com/yuriDiniz11/calculator) | Calculadora em C com 4 versões. |
 
 **`Contato`**
     - LinkedIn: https://www.linkedin.com/in/yuridiniz11 

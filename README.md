@@ -25,6 +25,7 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 **`Contato`**
    - LinkedIn: https://www.linkedin.com/in/yuridiniz11
    - E-mail: dinizyuri88@gmail.com
+   - [...]
    
 ---
 

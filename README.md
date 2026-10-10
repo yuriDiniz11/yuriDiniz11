@@ -45,7 +45,7 @@ Entrei de vez em TI quando precisei destravar um computador emprestado sem lembr
 ### 📊 Telemetria do Sistema
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriDiniz11&theme=dark&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=00FF66&currStreakLabel=00FF66&hide_border=false" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=yuriDiniz11&theme=dark&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=00FF66&currStreakLabel=00FF66&hide_border=false" height="170" />
 </p>
 
 <br>

@@ -8,7 +8,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Yuri, sou natural do Rio Grande do Sul e atualmente faço curso técnico em Desenvolvimento de Sistemas pelo SENAC-RS. Onde estou desenvolvendo minha lógica de programação em linguagem C, utilizo Linux (Mint e Kali) no meu dia a dia. Busco estágio ou vaga júnior em TI.<br><br>
+Me chamo Yuri, sou natural do Rio Grande do Sul e atualmente faço curso técnico em Desenvolvimento de Sistemas pelo SENAC-RS. Onde estou desenvolvendo minha lógica de programação em linguagem C, utilizo Linux no meu dia a dia. Busco estágio ou vaga júnior em TI.<br><br>
 Entrei de vez em TI quando precisei destravar um computador emprestado sem lembrar a senha. Dali vieram o interesse em segurança da informação e por programação!
 
  **`Foco atual`** 
